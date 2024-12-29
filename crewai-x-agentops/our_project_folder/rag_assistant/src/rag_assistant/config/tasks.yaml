@@ -1,0 +1,13 @@
+research_task:
+  description: >
+    Review the 21_Laws_of_AI_Solutions_Architecture.pdf and summarize the main topics.
+  expected_output: >
+    Bullet points of the most takeaways from the document.
+  agent: researcher
+
+reporting_task:
+  description: >
+    Make sure the report is professional, polished, and contains all relevant information.
+  expected_output: >
+    A report with 3 to 5 main takeaways from the ebook.pdf document
+  agent: reporting_analyst
