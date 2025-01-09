@@ -1,31 +1,12 @@
-# TLDR
-
-Repo for the `Intro to Ollama, Llama Stack, & AgentOps` video
-
 # Table of Contents
 1. [Reference links](#reference-links)
 2. [How to set up Llama Stack](#how-to-set-up-llama-stack)
 3. [How to try out 2 simple Llama Stack applications](#how-to-try-out-2-simple-llama-stack-applications)
 4. [Tips for adding AgentOps Example](#tips-for-adding-agentops)
 
-## Reference links
-
-- https://ollama.com/
-- https://llama-stack.readthedocs.io/en/latest/
-- https://www.agentops.ai/
-
 ## How to set up Llama Stack
 
 How to set up a Llama Stack Server powered by a model running in Ollama
-
-### Reference links
-
-- https://llama-stack.readthedocs.io/en/latest/distributions/index.html
-- https://llama-stack.readthedocs.io/en/latest/getting_started/index.html
-- https://github.com/meta-llama/llama-stack/blob/main/llama_stack/templates/ollama/run.yaml
-- https://llama-stack.readthedocs.io/en/latest/references/llama_cli_reference/download_models.html
-- https://github.com/meta-llama/llama-stack-apps
-- https://ollama.com/
 
 ### Prerequisites
 
@@ -167,3 +148,14 @@ agentops.start_session()
 # YOUR CODE HERE
 agentops.end_session(end_state="Success")
 ```
+
+## Reference links
+
+- https://ollama.com/
+- https://www.agentops.ai/
+- https://llama-stack.readthedocs.io/en/latest/
+- https://llama-stack.readthedocs.io/en/latest/distributions/index.html
+- https://llama-stack.readthedocs.io/en/latest/getting_started/index.html
+- https://llama-stack.readthedocs.io/en/latest/references/llama_cli_reference/download_models.html
+- https://github.com/meta-llama/llama-stack-apps
+- https://github.com/meta-llama/llama-stack/blob/main/llama_stack/templates/ollama/run.yaml
