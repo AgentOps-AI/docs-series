@@ -1,8 +1,8 @@
 # Table of Contents
-1. [Reference links](#reference-links)
 2. [How to set up Llama Stack](#how-to-set-up-llama-stack)
 3. [How to try out 2 simple Llama Stack applications](#how-to-try-out-2-simple-llama-stack-applications)
 4. [Tips for adding AgentOps Example](#tips-for-adding-agentops)
+5. [References](#references)
 
 ## How to set up Llama Stack
 
@@ -149,7 +149,7 @@ agentops.start_session()
 agentops.end_session(end_state="Success")
 ```
 
-## Reference links
+## References
 
 - https://ollama.com/
 - https://www.agentops.ai/
